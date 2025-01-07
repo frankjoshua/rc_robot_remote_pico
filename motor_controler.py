@@ -1,4 +1,4 @@
-class MotorController:
+class MotorControler:
     def __init__(self, serial):
         self.serial = serial
 

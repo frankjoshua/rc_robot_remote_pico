@@ -18,4 +18,4 @@ while True:
         led.off()
         relay.update()
     # time.sleep(0.05)
-    # led.toggle()
+    led.toggle()
